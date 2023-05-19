@@ -1,1 +1,1 @@
-# Random-GIF.github.io
+# random-gifs
